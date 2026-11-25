@@ -1,3 +1,4 @@
-# Buttercup demo website
+# LUMA Gelato, Brisbane demo website
 
-One page demo site built by Habtech for Buttercup, Manchester. Single index.html, no build step.
+Demo one page website built by Habtech for LUMA Gelato, Brisbane.
+Static site, open index.html. Demo preview only, not the live website.
